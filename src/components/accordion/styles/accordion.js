@@ -24,6 +24,7 @@ export const Item = styled.div`
     margin-top: 3em;
   }
 `;
+
 export const Header = styled.div`
   display: flex;
   justify-content: space-between;
@@ -48,6 +49,7 @@ export const Header = styled.div`
     font-size: 16px;
   }
 `;
+
 export const Body = styled.div`
   max-height: 1200px;
   transition: max-height 0.25s cubic-bezier(0.5, 0, 0.1, 1);
@@ -64,6 +66,7 @@ export const Body = styled.div`
     line-height: 22px;
   }
 `;
+
 export const Tittle = styled.div`
   font-size: 50px;
   line-height: 1.1;
